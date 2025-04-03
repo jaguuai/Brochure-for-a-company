@@ -21,9 +21,4 @@ This project is designed to scrape a company's website, extract relevant links, 
 - OpenAI API
 - Jupyter Notebook (optional for interactive use)
 
-## Contribution
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`feature-branch-name`).
-3. Commit your changes.
-4. Submit a pull request.
+
